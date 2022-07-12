@@ -1,5 +1,8 @@
 # PetAdopt
 # 宠物领养前后端分离项目
+#### 1、在服务器中搭链
+#### 2、编写solidity合约
+#### 3、部署合约
 #### 使用solidity合约编写fisco-bcos联盟链的业务逻辑，合约部署到链上后可调用fisco-bcos接口，并且使用springboot+vue框架实现项目的前后端。
 ### 使用注册过的用户地址登录后，分别领养 petId 为 0 和 1 的宠物，当有以下提示说明领养成功：
 ![图片](https://user-images.githubusercontent.com/76642188/178211498-e07f2cb6-8614-48e7-898c-daffb714b9a3.png)
